@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Project_10</string>
+    <string name="btn_send_string">Send a string</string>
+    <string name="btn_send_int">Send a integer</string>
+    <string name="btn_send_float">Send a float</string>
+</resources>
